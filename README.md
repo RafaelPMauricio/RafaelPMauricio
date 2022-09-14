@@ -1,3 +1,3 @@
 ### Olá 👋
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Front-end... in Rocketseat
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React, Front-end...
