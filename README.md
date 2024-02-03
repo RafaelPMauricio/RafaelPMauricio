@@ -1,16 +1,16 @@
 # Oi, me chamo Rafael Pinheiro Maurício 👋
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 ### Sobre mim
 
 💻 Eu sou um desenvolvedor [Front-End | Back-End]
 
 🎓 Eu estudo [[Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | Desenvolvimento de Software Fullstack] @ [[Cubos Academy](https://cubos.academy/) | Gran Faculdade]
 
-👩‍💻 Atualmente eu estou a procura de um emprego
+👩‍💻 Atualmente eu estou trabalhando como aprendiz em Logistica na empresa Mervil Mercantil Vieira / Estou a procura de mudar de emprego para à área de Front-end ou Back-end
 
-🔎 Também sou curioso sobre VideoGames
+🔎 Também tenho interesse em criação de Jogos
 
-✒️ Eu gosto de no meu tempo livre aprender coisas novas, criar meus proprios jogos, assitir anime;
+✒️ Eu gosto de no meu tempo livre aprender coisas novas, ler, criar meus proprios jogos, assitir anime;
 
 ### Eu já utilizei... 🔧
 
@@ -25,6 +25,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <!-- (Já colocar tecnologias do On Demand que aprende no curso)) -->
 
@@ -34,7 +35,6 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Cursos realizados 🤓
 
